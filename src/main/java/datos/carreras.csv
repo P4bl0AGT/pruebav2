@@ -1,0 +1,72 @@
+#-------------------------------------------------------------------
+MAT,MATEMATICAS,8,240
+Álgebra Lineal,MAT101,Jorge Otto,4
+Geometría Analítica,MAT102,Ana Pérez,3
+Cálculo Diferencial,MAT103,Luis Martínez,5
+Cálculo Integral,MAT104,Marta Gómez,4
+Ecuaciones Diferenciales,MAT105,Carlos Fernández,5
+Probabilidad y Estadística,MAT106,Sofía Rivas,4
+Teoría de Números,MAT107,Pedro Sánchez,3
+Matemáticas Discretas,MAT108,Laura Ruiz,4
+Optimización,MAT109,Juan Morales,3
+Análisis Matemático,MAT110,María López,5
+#-------------------------------------------------------------------
+FIS,FISICA,7,205
+Mecánica Clásica,FIS201,Alejandro Gómez,4
+Electromagnetismo,FIS202,Sandra Martínez,5
+Termodinámica,FIS203,Ricardo Torres,4
+Óptica,FIS204,Valeria López,3
+Física Moderna,FIS205,Javier Pérez,5
+Relatividad Especial,FIS206,Laura Fernández,4
+Física Cuántica,FIS207,Carlos Ruiz,5
+Matemáticas para la Física,FIS208,Ana Moreno,4
+Astrofísica,FIS209,Luis Rodríguez,3
+Laboratorio de Física,FIS210,María Gómez,4
+#-------------------------------------------------------------------
+PROG,PROGRAMACION,11,190
+Introducción a la Programación,PROG101,Juan Morales,3
+Estructuras de Datos,PROG102,Ana López,4
+Algoritmos,PROG103,Luis Martínez,4
+Programación Orientada a Objetos,PROG104,Marta Gómez,3
+Desarrollo Web,PROG105,Carlos Fernández,3
+Base de Datos,PROG106,Sofía Rivas,4
+Programación de Aplicaciones Móviles,PROG107,Pedro Sánchez,3
+Arquitectura de Computadoras,PROG108,Laura Ruiz,3
+Redes y Comunicaciones,PROG109,Jorge Otto,2
+Seguridad Informática,PROG110,María López,4
+#-------------------------------------------------------------------
+ING,INGENIERIA,12,340
+Matemáticas Aplicadas,ING101,Roberto Díaz,4
+Física General,ING102,Ana González,4
+Química General,ING103,Luis Fernández,3
+Estática,ING104,Carla Martínez,4
+Dinamica,ING105,Miguel Torres,4
+Electrónica Básica,ING106,Sofía Pérez,3
+Termodinámica,ING107,Javier López,4
+Control Automático,ING108,Valeria Rodríguez,3
+Metodología de la Investigación,ING109,Pedro Sánchez,2
+Gestión de Proyectos,ING110,Laura Moreno,3
+#-------------------------------------------------------------------
+QUI,QUIMICA,8,211
+Química General,QUI101,María Hernández,4
+Química Orgánica I,QUI102,Luis Gómez,4
+Química Inorgánica,QUI103,Ana López,3
+Química Física,QUI104,Carlos Pérez,4
+Química Orgánica II,QUI105,Sofía Fernández,4
+Bioquímica,QUI106,Ricardo Torres,3
+Análisis Instrumental,QUI107,Valeria Ruiz,4
+Química Ambiental,QUI108,Pedro Sánchez,3
+Metodología de Laboratorio,QUI109,Laura García,2
+Química de Polímeros,QUI110,Javier Martínez,4
+#-------------------------------------------------------------------
+BIO,BIOLOGIA,9,111
+Biología Celular,BIO201,Martín López,4
+Genética,BIO202,Ana Ruiz,4
+Botánica,BIO203,Luis Gómez,3
+Zoología,BIO204,Sofía Pérez,4
+Ecología,BIO205,Carlos Fernández,4
+Microbiología,BIO206,Valeria Martínez,3
+Biología Molecular,BIO207,Ricardo Torres,4
+Biotecnología,BIO208,Laura García,3
+Anatomía,BIO209,Pedro Sánchez,2
+Fisiología,BIO210,María Hernández,4
