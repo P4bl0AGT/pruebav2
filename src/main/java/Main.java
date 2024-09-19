@@ -126,10 +126,10 @@ public class Main {
         BufferedReader lector = new BufferedReader(new InputStreamReader(System.in));
         
         //Cargar
-        BufferedReader lectorCarreras = new BufferedReader(new FileReader("datos/carreras.csv"));
+        BufferedReader lectorCarreras = new BufferedReader(new FileReader("src/main/java/datos/carreras.csv"));
         instituto.cargarCsvCarreras(lectorCarreras);
         lectorCarreras.close();
-        BufferedReader lectorAlumnos = new BufferedReader(new FileReader("datos/alumnos.csv"));
+        BufferedReader lectorAlumnos = new BufferedReader(new FileReader("src/main/java/datos/alumnos.csv"));
         instituto.cargarCsvAlumnos(lectorAlumnos);
         lectorAlumnos.close();
 
